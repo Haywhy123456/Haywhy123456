@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Haywhy123456
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Haywhy123456/Haywhy123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 URL GOTO=https://www.cotps.com/#/pages/transaction/transaction
 
 WAIT SECONDS=10
